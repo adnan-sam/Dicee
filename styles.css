@@ -3,13 +3,11 @@
   margin: auto;
   text-align: center;
 }
-
 .dice {
   text-align: center;
   display: inline-block;
 
 }
-
 body {
   background-color: #393E46;
 }
